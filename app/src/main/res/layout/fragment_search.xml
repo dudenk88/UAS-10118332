@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <!--    13-10-2021 - 10118332 - Nais Farid - IF8-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageButton
+            android:id="@+id/btn_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/ic_back"
+            android:background="@android:color/transparent"
+            />
+        <SearchView
+            android:id="@+id/search_view"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="start|center"
+            android:layout_height="40dp"
+            android:layout_marginStart="5dp"
+            android:searchIcon="@null"
+            android:queryHint="New location"
+            android:iconifiedByDefault="false"
+            android:focusable="false" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/txt_header_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="History"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:drawablePadding="10dp"
+        android:textColor="@color/colorBlueLite"
+        android:drawableStart="@drawable/ic_text_1"
+        android:layout_marginStart="20dp"
+     />
+    <ListView
+        android:id="@+id/listview_history"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/txt_search_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:drawableEnd="@drawable/ic_go"
+        android:padding="15dp"
+        android:textColor="@android:color/black"/>
+</LinearLayout>

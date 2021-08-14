@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <!--    13-10-2021 - 10118332 - Nais Farid - IF8-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+        <ImageButton
+            android:id="@+id/btn_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/ic_back"
+            android:background="@android:color/transparent" />
+        <TextView
+            android:id="@+id/txt_your_store"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Destination"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginStart="20dp"
+            android:textColor="@color/colorBlueLite"
+            android:gravity="center"/>
+    </LinearLayout>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kampung Naga"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/desa1"/>
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_gravity="center_horizontal|center"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kampung Naga terletak di Tasikmalaya, Jawa Barat, merupakan suatu perkampungan yang
+		dihuni oleh sekelompok masyarakat yang sangat kuat dalam memegang adat istiadat peninggalan
+		leluhurnya, dalam hal ini adalah adat Sunda. Seperti permukiman Badui, Kampung Naga menjadi
+		objek kajian antropologi mengenai kehidupan masyarakat pedesaan Sunda pada masa
+		peralihan dari pengaruh Hindu menuju pengaruh Islam di Jawa Barat."/>
+
+</LinearLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <!--    13-10-2021 - 10118332 - Nais Farid - IF8-->
+    <FrameLayout
+        android:id="@+id/content_map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <include layout="@layout/app_bar_layout" style="@android:style/Widget.Button"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_anchor="@id/bottom"
+        android:src="@android:drawable/ic_menu_mylocation"
+        android:layout_marginEnd="15dp"
+        android:backgroundTint="@color/colorAccent"
+        app:layout_anchorGravity="top|right"/>
+
+    <Button
+        android:id="@+id/btn_showlist"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        app:layout_anchor="@id/bottom"
+        app:layout_anchorGravity="center|top"
+        android:layout_marginBottom="60dp"
+        android:text="View store list"
+        android:background="@drawable/toolbar_temple"
+        android:backgroundTint="@color/colorGrayLite"/>
+
+    <include
+        android:id="@+id/bottom"
+        layout="@layout/bottom_sheet"/>
+
+    <FrameLayout
+        android:id="@+id/content_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </FrameLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,766 @@
+﻿{
+    "data": [
+        {
+            "name": "MINISTOP -  Trần Doãn Khanh",
+            "address": "2 Trần Doãn Khanh, Quận 1",
+            "latitude": "10.7887356",
+            "longitude": "106.6955094"
+        },
+        {
+            "name": "MINISTOP - Phạm Viết Chánh",
+            "address": "19 - 21 - 23 Phạm Viết Chánh, phường Nguyễn Cư Trinh, quận 1",
+            "latitude": "10.7675582",
+            "longitude": "106.6827417"
+        },
+        {
+            "name": "MINISTOP -  Mạc Thị Bưởi",
+            "address": "16 Mạc Thị Bưởi, phường Bến Nghé, quận 1",
+            "latitude": "10.7759472",
+            "longitude": "106.7029634"
+        },
+        {
+            "name": "MINISTOP - Cống Quỳnh",
+            "address": "124 Cống Quỳnh, phường Phạm Ngũ Lão, quận 1",
+            "latitude": "10.7653993",
+            "longitude": "106.6880393"
+        },
+        {
+            "name": "MINISTOP - Trần Khắc Chân",
+            "address": "79 Trần Khắc Chân, phường Tân Định, quận 1",
+            "latitude": "10.7944532",
+            "longitude": "106.6886693"
+        },
+        {
+            "name": "MINISTOP - Nam Kỳ Khởi Nghĩa",
+            "address": "75bis Nam Kỳ Khởi Nghĩa, quận 1",
+            "latitude": "10.7724035",
+            "longitude": "106.6982301"
+        },
+        {
+            "name": "MINISTOP - Trần Đình Xu",
+            "address": "114 Trần Đình Xu, phường Nguyễn Cư Trinh, quận 1",
+            "latitude": "10.7621663",
+            "longitude": "106.6870053"
+        },
+        {
+            "name": "MINISTOP - Đinh Tiên Hoàng",
+            "address": "41 - 43 Đinh Tiên Hoàng, Bến Nghé, quận 1",
+            "latitude": "10.7856119",
+            "longitude": "106.7003386"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Cảnh Chân",
+            "address": "Số 17/1 đường Nguyễn Cảnh Chân, phường Cầu Kho, quận 1",
+            "latitude": "10.7604972",
+            "longitude": "106.6845694"
+        },
+        {
+            "name": "MINISTOP - Lý Tự Trọng",
+            "address": "110 Lý Tự Trọng, Bến Nghé, quận 1",
+            "latitude": "10.774145",
+            "longitude": "106.6949831"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Văn Nguyễn",
+            "address": "216C Nguyễn Văn Nguyễn, phường Tân Định, quận 1",
+            "latitude": "10.7914206",
+            "longitude": "106.6857301"
+        },
+        {
+            "name": "MINISTOP - Đỗ Quang Đẩu",
+            "address": "26 Đỗ Quang Đẩu, phường Phạm Ngũ Lão, quận 1",
+            "latitude": "10.766705",
+            "longitude": "106.6890294"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Thái Bình 2",
+            "address": "163 Nguyễn Thái Bình, phường Nguyễn Thái Bình, quận 1",
+            "latitude": "10.7679502",
+            "longitude": "106.6963953"
+        },
+        {
+            "name": "MINISTOP VINHOME GOLDEN RIVER",
+            "address": "MINISTOP VINHOME GOLDEN RIVER - 2 Tôn Đức Thắng, phường Bến Nghé(A2SH09), quận 1",
+            "latitude": "10.7826222",
+            "longitude": "106.704552"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Huệ",
+            "address": "66A Nguyễn Huệ, phường Bến Nghé, quận 1",
+            "latitude": "10.7746433",
+            "longitude": "106.7013803"
+        },
+        {
+            "name": "MINISTOP - Bùi Viện",
+            "address": "107/ 1 Bùi Viện, phường Phạm Ngũ Lão, quận 1",
+            "latitude": "10.7671296",
+            "longitude": "106.6913816"
+        },
+        {
+            "name": "MINISTOP - Lê Thánh Tôn",
+            "address": "11 Lê Thánh Tôn, phường Bến Nghé, quận 1",
+            "latitude": "10.7814669",
+            "longitude": "106.7035155"
+        },
+        {
+            "name": "MINISTOP - Phạm Ngũ Lão",
+            "address": "317 Phạm Ngũ Lão, phường Phạm Ngũ Lão, quận 1",
+            "latitude": "10.7674773",
+            "longitude": "106.6885943"
+        },
+        {
+            "name": "MINISTOP - Mai Thị Lựu",
+            "address": "21 Mai Thị Lựu, phường ĐaKao, quận 1",
+            "latitude": "10.7906113",
+            "longitude": "106.6973713"
+        },
+        {
+            "name": "MINISTOP - Huỳnh Thúc Kháng",
+            "address": "21 Huỳnh Thúc Kháng, phường Bến Nghé, quận 1",
+            "latitude": "10.7733513",
+            "longitude": "106.7012673"
+        },
+        {
+            "name": "MINISTOP - Vũ Tông Phan",
+            "address": "Số 8 Vũ Tông Phan, Phường An Phú, Quận 2, Quận 2",
+            "latitude": "10.797694",
+            "longitude": "106.7407869"
+        },
+        {
+            "name": "MINISTOP - Xa lộ Hà Nội",
+            "address": "Số 159 Xa Lộ Hà Nội, Thảo Điền, Quận 2",
+            "latitude": "10.802767",
+            "longitude": "106.7392525"
+        },
+        {
+            "name": "MINISTOP SALA SARIMI",
+            "address": "A1-00.03, Số 74 Đường Nguyễn Cơ Thạch, Phường An Lợi Đông, Quận 2",
+            "latitude": "10.7692678",
+            "longitude": "106.722667"
+        },
+        {
+            "name": "MINISTOP NEW CITY",
+            "address": "Số 17 Mai Chí Thường Bình Khánh, KP3, P. Bình Khánh, Quận 2",
+            "latitude": "10.7809505",
+            "longitude": "106.7336042"
+        },
+        {
+            "name": "MINISTOP Đảo Kim Cương",
+            "address": "No 01 - Street No.104-BTT, Quarter 3, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh, Vietnam, Quận 2",
+            "latitude": "10.7789273",
+            "longitude": "106.7444703"
+        },
+        {
+            "name": "MINISTOP - The Sun Avenue",
+            "address": "SAV.5-00.06 The Sun Avenue, Số 28 Mai Chí Thọ, Phường An Phú, Quận 2",
+            "latitude": "10.7859634",
+            "longitude": "106.7463212"
+        },
+        {
+            "name": "MINISTOP - Masteri An Phú",
+            "address": "Masteri An Phú, 179 Xa Lộ Hà Nội, Phường Thảo Điền, Quận 2",
+            "latitude": "10.8035323",
+            "longitude": "106.7454152"
+        },
+        {
+            "name": "MINISTOP - The Sun Avenue 2",
+            "address": "SAV.8-00.01 The Sun Avenue, 28 Mai Chí Thọ, Phường An Phú, Quận 2",
+            "latitude": "10.7859634",
+            "longitude": "106.7463212"
+        },
+        {
+            "name": "MINISTOP - Palm Residence",
+            "address": "SH -7C, 12A Đường A5 Khu dân cư Palm Residence, Khu phố 3, Phường An Phú, Quận 2",
+            "latitude": "10.7770356",
+            "longitude": "106.7427108"
+        },
+        {
+            "name": "MINISTOP - Homiland Riverside",
+            "address": "SH1 Homyland Riverside, 403A Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2",
+            "latitude": "10.7891045",
+            "longitude": "106.7663878"
+        },
+        {
+            "name": "MINISTOP - Cư xá Đô Thành",
+            "address": "129 - 131 Đường Số 3, Cư xá Đô Thành, Quận 3",
+            "latitude": "10.7721628",
+            "longitude": "106.678854"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Thiện Thuật",
+            "address": "19-21 Nguyễn Thiện Thuật, Phường 2, Quận 3",
+            "latitude": "10.7664762",
+            "longitude": "106.6795501"
+        },
+        {
+            "name": "MINISTOP - Cách Mạng Tháng 8",
+            "address": "598-600 Cách Mạng Tháng Tám, Phường 11, Quận 3",
+            "latitude": "10.7867784",
+            "longitude": "106.663095"
+        },
+        {
+            "name": "MINISTOP - Trần Quốc Toản",
+            "address": "47 Trần Quốc Toản, Phường 8, Quận 3, Quận 3",
+            "latitude": "10.7880421",
+            "longitude": "106.6867454"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Thiện Thuật",
+            "address": "Số 138, Đường Nguyễn Thiện Thuật, Phường 3, Quận 3",
+            "latitude": "10.7681109",
+            "longitude": "106.677635"
+        },
+        {
+            "name": "MINISTOP - Cao Thắng",
+            "address": "Số 95, đường Cao Thắng, Phường 3, Quận 3",
+            "latitude": "10.7724011",
+            "longitude": "106.676971"
+        },
+        {
+            "name": "MINISTOP - Lê Văn Sỹ",
+            "address": "478 Lê Văn Sỹ, Phường 14, Quận 3",
+            "latitude": "10.7893832",
+            "longitude": "106.6732373"
+        },
+        {
+            "name": "MINISTOP - Xóm Chiếu",
+            "address": "181/11/1 + 181/13 Xóm Chiếu, phường 16, Quận 4",
+            "latitude": "10.7553503",
+            "longitude": "106.7074453"
+        },
+        {
+            "name": "MINISTOP Hoàng Diệu",
+            "address": "Số 192A, Hoàng Diệu, Phường 9, Quận 4",
+            "latitude": "10.7626874",
+            "longitude": "106.700467"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Biểu",
+            "address": "207 Nguyễn Biểu, Phường 2, Quận 5, Quận 5",
+            "latitude": "10.7572484",
+            "longitude": "106.6809397"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Trãi",
+            "address": "927 Nguyễn Trãi, Phường 14, Quận 5",
+            "latitude": "10.7527407",
+            "longitude": "106.6531773"
+        },
+        {
+            "name": "MINISTOP Sky Garden",
+            "address": "Số 74, đường Phạm Văn Nghị, Phường Tân Phong, Quận 7",
+            "latitude": "10.733416",
+            "longitude": "106.7044784"
+        },
+        {
+            "name": "MINISTOP - Trần Trọng Cung, quận 7",
+            "address": "Số 69 Trần Trọng Cung, Phường Tân Thuận Đông, Quận 7",
+            "latitude": "10.7439928",
+            "longitude": "106.7304397"
+        },
+        {
+            "name": "MINISTOP - Bùi Bằng Đoàn - Hưng Gia",
+            "address": "Số R23 Hưng Gia 2, Phường Tân Phong, Quận 7",
+            "latitude": "10.7325088",
+            "longitude": "106.7058209"
+        },
+        {
+            "name": "MINISTOP - Tôn Dặt Tiên, quận 7",
+            "address": "MD2 Đại lộ Nguyễn Văn Linh, Phường Tân Phú, Quận 7",
+            "latitude": "10.7316836",
+            "longitude": "106.7134514"
+        },
+        {
+            "name": "MINISTOP - Pegasuite",
+            "address": "PS-03, The Pegasuite, 1002 Đường Tạ Quang Bửu, Quận 8",
+            "latitude": "10.7328506",
+            "longitude": "106.6496079"
+        },
+        {
+            "name": "MINISTOP Hutech, Quận 9",
+            "address": "Phân khu đào tạo E1,Khu Công Nghệ Cao, Phường Hiệp Phú, Quận 9",
+            "latitude": "10.8557032",
+            "longitude": "106.7833794"
+        },
+        {
+            "name": "MINISTOP Công Viên Suối Tiên",
+            "address": "Số 120 Xa Lộ Hà Nội Phường Tân Phú, Quận 9",
+            "latitude": "10.8630933",
+            "longitude": "106.7957323"
+        },
+        {
+            "name": "MINISTOP - Jamila",
+            "address": "Jamila Khang Điền, Đường 697, Phường Phú Hữu, Quận 9",
+            "latitude": "10.7956109",
+            "longitude": "106.7818472"
+        },
+        {
+            "name": "MINISTOP - CC 9 View",
+            "address": "Chung Cư 9 View, Mã 1.10 Tầng Thương Mại, Số 1, Đường 1, Khu Phố 4, Phường Phước Long B, Quận 9",
+            "latitude": "10.7957769",
+            "longitude": "106.7139947"
+        },
+        {
+            "name": "MINISTOP - Trần Thiện Chánh",
+            "address": "77 Trần Thiện Chánh, Quận 10",
+            "latitude": "10.7715755",
+            "longitude": "106.6684967"
+        },
+        {
+            "name": "MINISTOP - Hòa Hưng",
+            "address": "101 Hoà Hưng, phường 12, Quận 10",
+            "latitude": "10.7789712",
+            "longitude": "106.6717772"
+        },
+        {
+            "name": "MINISTOP - Đào Duy Từ",
+            "address": "17 Đào Duy Từ, Phường 5, Quận 10",
+            "latitude": "10.7605822",
+            "longitude": "106.6658983"
+        },
+        {
+            "name": "MINISTOP - Sư Vạn Hạnh",
+            "address": "435 Sư Vạn Hạnh phường 12, Quận 10",
+            "latitude": "10.7726682",
+            "longitude": "106.6668367"
+        },
+        {
+            "name": "MINISTOP - Trần Nhân Tôn",
+            "address": "177-179 Đường Trần Nhân Tôn, Phường 2, Quận 10",
+            "latitude": "10.7631593",
+            "longitude": "106.6724017"
+        },
+        {
+            "name": "MINISTOP - Thành Thái",
+            "address": "Số 136 Thành Thái, Phường 12, Quận 10",
+            "latitude": "10.7748902",
+            "longitude": "106.6619896"
+        },
+        {
+            "name": "MINISTOP - Nhi Đồng 1 (Khu nội trú)",
+            "address": "Số 341 Sư Vạn Hạnh, Phường 10, Quận 10",
+            "latitude": "10.7686604",
+            "longitude": "106.6680003"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Lâm",
+            "address": "Số 46 Nguyễn Lâm, Phường 6, Quận 10",
+            "latitude": "10.763709",
+            "longitude": "106.6613061"
+        },
+        {
+            "name": "MINISTOP - Nhi Đồng 1 (Khu khám bệnh)",
+            "address": "Số 341 Sư Vạn Hạnh, Phường 10, Quận 10",
+            "latitude": "10.7686604",
+            "longitude": "106.6680003"
+        },
+        {
+            "name": "MINISTOP - Cao Thắng 2",
+            "address": "Số 262 264, Cao Thắng, Phường 12, Quận 10",
+            "latitude": "10.7748894",
+            "longitude": "106.6734105"
+        },
+        {
+            "name": "MINISTOP - Thành Thái 2",
+            "address": "7A/7 Đường Thành Thái, Phường 14, Quận 10",
+            "latitude": "10.7690536",
+            "longitude": "106.6635556"
+        },
+        {
+            "name": "MINISTOP - Đường 3/2",
+            "address": "666/64 đường 3 tháng 2, phường 14, Quận 10",
+            "latitude": "10.7679824",
+            "longitude": "106.6592071"
+        },
+        {
+            "name": "MINISTOP - Dương Đình Nghệ",
+            "address": "17K-17H Dương Đình Nghệ, Quận 11",
+            "latitude": "10.7603253",
+            "longitude": "106.6484603"
+        },
+        {
+            "name": "MINISTOP - Đường số 5",
+            "address": "Số 60, Đường số 5, Phường 8, Quận 11",
+            "latitude": "10.7617588",
+            "longitude": "106.646164"
+        },
+        {
+            "name": "MINISTOP - Bình Thới",
+            "address": "120 Bình Thới, Phường 14, Quận 11, Quận 11",
+            "latitude": "10.7676643",
+            "longitude": "106.6468073"
+        },
+        {
+            "name": "MINISTOP - Tân Phước",
+            "address": "Số 364-366 Đường Tân Phước, Phường 7, Quận 11",
+            "latitude": "10.7599532",
+            "longitude": "106.6530474"
+        },
+        {
+            "name": "MINISTOP Phú Thọ",
+            "address": "Số 75 Phú Thọ, Phường 1, Quận 11",
+            "latitude": "10.7587112",
+            "longitude": "106.6393741"
+        },
+        {
+            "name": "MINISTOP - đại học quốc gia",
+            "address": "Quốc lộ 1A, Kí túc xá khu A, Khu phố 6, Phường Linh Trung, Quận Thủ Đức",
+            "latitude": "10.8778511",
+            "longitude": "106.8050408"
+        },
+        {
+            "name": "MINISTOP - ĐH Sư Phạm Kỹ Thuật",
+            "address": "Số 1 Võ Văn Ngân, Phường Linh Chiểu, Quận Thủ Đức",
+            "latitude": "10.8500549",
+            "longitude": "106.7664198"
+        },
+        {
+            "name": "MINISTOP Phú Châu - Quận Thủ Đức",
+            "address": "Số 40, Phú Châu, Phường Tam Phú, Quận Thủ Đức",
+            "latitude": "10.8642092",
+            "longitude": "106.7440235"
+        },
+        {
+            "name": "MINISTOP Chương Dương",
+            "address": "39A Chương Dương, Phường Linh Chiểu, Quận Thủ Đức",
+            "latitude": "10.8526652",
+            "longitude": "106.7579232"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Kiệm",
+            "address": "Số 371 Đường Nguyễn Kiệm, Phường 3, Quận Gò Vấp",
+            "latitude": "10.8162359",
+            "longitude": "106.6756248"
+        },
+        {
+            "name": "MINISTOP - Cityland Park Hills",
+            "address": "P5-00.13 Cityland Park Hills 18 Phan Văn Trị, Phường 10, Quận Gò Vấp",
+            "latitude": "10.8345713",
+            "longitude": "106.6655804"
+        },
+        {
+            "name": "MINISTOP Nguyễn Du",
+            "address": "15 Nguyễn Du, phường 7, quận Gò Vấp",
+            "latitude": "10.8253658",
+            "longitude": "106.6833937"
+        },
+        {
+            "name": "MINISTOP - D2",
+            "address": "48A D2, Quận Bình Thạnh",
+            "latitude": "10.8053118",
+            "longitude": "106.7136433"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Thượng Hiền",
+            "address": "245 Nguyễn Thượng Hiền, Quận Bình Thạnh",
+            "latitude": "10.8057858",
+            "longitude": "106.6836987"
+        },
+        {
+            "name": "MINISTOP - Hoàng Hoa Thám",
+            "address": "10A Hoàng Hoa Thám, phường 7, Quận Bình Thạnh",
+            "latitude": "10.8047922",
+            "longitude": "106.6896613"
+        },
+        {
+            "name": "MINISTOP - Điện Biên Phủ",
+            "address": "475A Điện Biên Phủ, phường 25, Quận Bình Thạnh",
+            "latitude": "10.8016803",
+            "longitude": "106.7122433"
+        },
+        {
+            "name": "MINISTOP - Phạm Viết Chánh",
+            "address": "37 - 39 Phạm Viết Chánh, Phường 19, Quận Bình Thạnh",
+            "latitude": "10.7903733",
+            "longitude": "106.7073463"
+        },
+        {
+            "name": "MINISTOP Vũ Huy Tấn",
+            "address": "15K Vũ Huy Tấn, Phường 3, Quận Bình Thạnh",
+            "latitude": "10.7957631",
+            "longitude": "106.6921256"
+        },
+        {
+            "name": "MINISTOP - Ngô Tất Tố",
+            "address": "69 Ngô Tất Tố, Phường 21, Quận Bình Thạnh",
+            "latitude": "10.7927983",
+            "longitude": "106.7096033"
+        },
+        {
+            "name": "MINISTOP - D2",
+            "address": "89 D2, Phường 25, Quận Bình Thạnh",
+            "latitude": "10.8048374",
+            "longitude": "106.7137397"
+        },
+        {
+            "name": "MINISTOP - Lê Quang Định",
+            "address": "484 Lê Quang Định, Phường 11, Quận Bình Thạnh",
+            "latitude": "10.8144597",
+            "longitude": "106.6878229"
+        },
+        {
+            "name": "MINISTOP - D1",
+            "address": "127 Đường D1, Phường 25, Quận Bình Thạnh, Quận Bình Thạnh",
+            "latitude": "10.800773",
+            "longitude": "106.7162252"
+        },
+        {
+            "name": "MINISTOP - Vũ Tùng",
+            "address": "88D - 88E Vũ Tùng phường 2, Quận Bình Thạnh",
+            "latitude": "10.801821",
+            "longitude": "106.6987053"
+        },
+        {
+            "name": "MINISTOP - Trần Qúy Cáp",
+            "address": "43 Trần Quý Cáp, P.12, Quận Bình Thạnh, Quận Bình Thạnh",
+            "latitude": "10.8156237",
+            "longitude": "106.693164"
+        },
+        {
+            "name": "MINISTOP - Đinh Bộ Lĩnh",
+            "address": "Số 157 Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh",
+            "latitude": "10.8113023",
+            "longitude": "106.7068183"
+        },
+        {
+            "name": "MINISTOP - Bùi Đình Túy",
+            "address": "Số 247C Bùi Đình Túy, Phường 24, Quận Bình Thạnh",
+            "latitude": "10.8075463",
+            "longitude": "106.6994723"
+        },
+        {
+            "name": "MINISTOP D5",
+            "address": "Số 36, Đường D5, Phường 25, Quận Bình Thạnh",
+            "latitude": "10.8062092",
+            "longitude": "106.7115774"
+        },
+        {
+            "name": "MINISTOP Ung Văn Khiêm",
+            "address": "Số 31/53 Đường Ung Văn Khiêm Phường 25, Quận Bình Thạnh",
+            "latitude": "10.8083447",
+            "longitude": "106.7126498"
+        },
+        {
+            "name": "MINISTOP ĐH Hồng Bàng",
+            "address": "Tòa nhà HIU, Số 215 đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh",
+            "latitude": "10.8000888",
+            "longitude": "106.7042577"
+        },
+        {
+            "name": "MINISTOP Vạn Kiếp",
+            "address": "Số 4 đường Vạn Kiếp, Phường 3, Quận Bình Thạnh",
+            "latitude": "10.8026294",
+            "longitude": "106.6910433"
+        },
+        {
+            "name": "MINISTOP Vạn Cửu Vân",
+            "address": "Số 79 Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh",
+            "latitude": "10.795651",
+            "longitude": "106.7051163"
+        },
+        {
+            "name": "MINISTOP  Vạn Kiếp 2",
+            "address": "Số 87 Vạn Kiếp, Phường 3, Quận Bình Thạnh",
+            "latitude": "10.7994263",
+            "longitude": "106.6915103"
+        },
+        {
+            "name": "MINISTOP - Hoàng Hoa Thám 3",
+            "address": "Số 199A Hoàng Hoa Thám, Phường 6, Quận Bình Thạnh",
+            "latitude": "10.8094063",
+            "longitude": "106.6824893"
+        },
+        {
+            "name": "MINISTOP - Vườn Lài",
+            "address": "56 Vườn Lài, Quận Tân Phú",
+            "latitude": "10.7878571",
+            "longitude": "106.6313773"
+        },
+        {
+            "name": "MINISTOP - Trần Đình Trọng",
+            "address": "132/1B Trịnh Đình Trọng, Phường Phú Trung, Quận Tân Phú",
+            "latitude": "10.7755746",
+            "longitude": "106.6407572"
+        },
+        {
+            "name": "MINISTOP - Tân Qúy",
+            "address": "239A Tân Quí, Phường Tân Qúy, Quận Tân Phú",
+            "latitude": "10.7924278",
+            "longitude": "106.6184866"
+        },
+        {
+            "name": "MINISTOP Âu Cơ 2",
+            "address": "Số 865 Âu Cơ, Phường Tân Sơn Nhì, Quận Tân Phú",
+            "latitude": "10.7962232",
+            "longitude": "106.635927"
+        },
+        {
+            "name": "MINISTOP Tân Sơn Nhì",
+            "address": "384 - 386 Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú",
+            "latitude": "10.794498",
+            "longitude": "106.6267243"
+        },
+        {
+            "name": "MINISTOP - Đặng Văn Ngữ",
+            "address": "14A Bis Đặng Văn Ngữ, phường 10, Quận Phú Nhuận",
+            "latitude": "10.7970462",
+            "longitude": "106.6675046"
+        },
+        {
+            "name": "MINISTOP - Hoa Lan",
+            "address": "Số 54 Đường Hoa Lan, Phường 2, Quận Phú Nhuận",
+            "latitude": "10.7969921",
+            "longitude": "106.6882158"
+        },
+        {
+            "name": "MINISTOP - Hoa Sứ",
+            "address": "61 Hoa Sứ, Phường 7, Quận Phú Nhuận, Quận Phú Nhuận",
+            "latitude": "10.7999351",
+            "longitude": "106.6867357"
+        },
+        {
+            "name": "MINISTOP Nguyễn Trọng Tuyển 2",
+            "address": "Số 41 Nguyễn Trọng Tuyển, Phường 15, Quận Phú Nhuận",
+            "latitude": "10.7971713",
+            "longitude": "106.6778063"
+        },
+        {
+            "name": "MINISTOP Thích Quảng Đức",
+            "address": "Số 113 115, Đường Thích Quảng Đức, Phường 4, Quận Phú Nhuận",
+            "latitude": "10.8056182",
+            "longitude": "106.6795693"
+        },
+        {
+            "name": "MINISTOP Phùng Văn Cung",
+            "address": "Số 94D2 Đường Phùng Văn Cung, Phường 7, Quận Phú Nhuận",
+            "latitude": "10.8016365",
+            "longitude": "106.6827158"
+        },
+        {
+            "name": "MINISTOP Hồ Văn Huê ",
+            "address": "43F Hồ Văn Huê, Quận Phú Nhuận",
+            "latitude": "10.8027299",
+            "longitude": "106.6742285"
+        },
+        {
+            "name": "MINISTOP - Lam Sơn",
+            "address": "25A Lam Sơn, Quận Tân Bình",
+            "latitude": "10.8099131",
+            "longitude": "106.6645458"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Hồng Đào",
+            "address": "191 Nguyễn Hồng Đào, Quận Tân Bình",
+            "latitude": "10.7930545",
+            "longitude": "106.6399231"
+        },
+        {
+            "name": "MINISTOP - Bạch Đằng",
+            "address": "165 Bạch Đằng, Quận Tân Bình",
+            "latitude": "10.8156697",
+            "longitude": "106.6728367"
+        },
+        {
+            "name": "MINISTOP - Hồng Hà",
+            "address": "58B Hồng Hà, Quận Tân Bình",
+            "latitude": "10.8131233",
+            "longitude": "106.6661793"
+        },
+        {
+            "name": "MINISTOP - Hậu Giang",
+            "address": "45 Hậu Giang, Phường 4, Quận Tân Bình",
+            "latitude": "10.8078535",
+            "longitude": "106.6602163"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Thái Bình ",
+            "address": "194 Nguyễn Thái Bình, Phường 12, Quận Tân Bình",
+            "latitude": "10.7967903",
+            "longitude": "106.6512832"
+        },
+        {
+            "name": "MINISTOP - Trương Công Định",
+            "address": "88 Trương Công Định, Phường 14, Quận Tân Bình",
+            "latitude": "10.7964872",
+            "longitude": "106.6387323"
+        },
+        {
+            "name": "MINISTOP - B22 Bạch Đằng",
+            "address": "B22 Bạch Đằng, phường 2, Quận Tân Bình",
+            "latitude": "10.8150023",
+            "longitude": "106.6658723"
+        },
+        {
+            "name": "MINISTOP - Bùi Thị Xuân",
+            "address": "46-48 Ngô Thị Thu Minh, Quận Tân Bình",
+            "latitude": "10.7966001",
+            "longitude": "106.6607948"
+        },
+        {
+            "name": "MINISTOP - Nguyễn Trọng Tuyển",
+            "address": "351A Nguyen Trong Tuyen, Quận Tân Bình",
+            "latitude": "10.7982143",
+            "longitude": "106.6652613"
+        },
+        {
+            "name": "MINISTOP - Phạm Văn Hai",
+            "address": "204 Phạm Văn Hai, Phường 5, Quận Tân Bình",
+            "latitude": "10.7912671",
+            "longitude": "106.6596401"
+        },
+        {
+            "name": "MINISTOP - Thăng Long",
+            "address": "Số 33 Thăng Long, Phường 04, Quận Tân Bình",
+            "latitude": "10.8023343",
+            "longitude": "106.6582043"
+        },
+        {
+            "name": "MINISTOP - Hoàng Hoa Thám, quận Tân Bình",
+            "address": "Số 18 Hoàng Hoa Thám, Phường 12, Quận Tân Bình",
+            "latitude": "10.7972893",
+            "longitude": "106.6450953"
+        },
+        {
+            "name": "MINISTOP - Bành Văn Trân",
+            "address": "108A - 108B Bành Văn Trân, P.7, Q.Tân Bình, Quận Tân Bình",
+            "latitude": "10.7885401",
+            "longitude": "106.6543286"
+        },
+        {
+            "name": "MINISTOP Hoàng Việt",
+            "address": "Số 27, đường Hoàng Việt, Phường 4, Quận Tân Bình",
+            "latitude": "10.7950593",
+            "longitude": "106.6569349"
+        },
+        {
+            "name": "MINISTOP - Bình Giã",
+            "address": "Số 62, Đường Bình Giã, Phường 13, Quận Tân Bình",
+            "latitude": "10.8005342",
+            "longitude": "106.6425833"
+        },
+        {
+            "name": "MINISTOP - Phổ Quang",
+            "address": "Số 104 Phổ Quang, Phường 2, Quận Tân Bình",
+            "latitude": "10.8085524",
+            "longitude": "106.6682248"
+        },
+        {
+            "name": "MINISTOP - PHổ Quang (Sky Center)",
+            "address": "Số 10 Phổ Quang, Phường 2, Quận Tân Bình",
+            "latitude": "10.8054172",
+            "longitude": "106.663878"
+        },
+        {
+            "name": "MINISTOP - Hoàng Văn Thụ",
+            "address": "521 Hoàng Văn Thụ, Phường 4, Quận Tân Bình",
+            "latitude": "10.7959243",
+            "longitude": "106.6543643"
+        },
+        {
+            "name": "MINISTOP - Ni Sư Huỳnh Liên",
+            "address": "73 Ni Sư Huỳnh Liên, Phường 10, Quận Tân Bình",
+            "latitude": "10.7834621",
+            "longitude": "106.6465086"
+        }
+    ]
+}
